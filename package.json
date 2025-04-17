@@ -1,0 +1,13 @@
+{
+  "name": "ui-amazing-connector",
+  "version": "1.0.0",
+  "description": "Experimental ui project using Webpack and Angular and Jest in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
